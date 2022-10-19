@@ -1,5 +1,3 @@
-## ** .yml File **
-
 ```
 # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#accent-color
 # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#details
