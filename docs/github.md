@@ -1,7 +1,7 @@
 Create a repository on GitHub. Then in your terminal initialize the local Git for your documentation.
 
-    git init
-    git remote add origin git@github.com:jolous/calculator-mkdocs.git 
+    git clone git@github.com:####
+    cd ####
 
 ## ** Give permission to your account **
 
